@@ -1,3 +1,6 @@
 [submodule "third_party/ouster-sdk"]
 	path = third_party/ouster-sdk
 	url = https://github.com/ouster-lidar/ouster-sdk.git
+[submodule "third_party/zed-sdk"]
+	path = third_party/zed-sdk
+	url = https://github.com/stereolabs/zed-sdk.git
